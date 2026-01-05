@@ -49,3 +49,9 @@ git push
 
 # get changes from github to local repo
 git pull
+
+# create a branch of your name
+# switch to the branch you created
+# create a file of your name
+# the file should include a small program that you did
+# push the branch
