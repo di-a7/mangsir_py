@@ -46,3 +46,5 @@ git remote -v
 # local changes push to remote(github)
 git push -u origin branch_name
 git push
+
+change made in github editor
