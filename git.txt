@@ -37,4 +37,12 @@ git merge branch_name
 git branch -M new_branch_name
 
 
-# magsir folder git initialize
+# add remote repo to local repo 
+git remote add origin <repo_url>
+
+# to check the remote repo connected to this repo
+git remote -v 
+
+# local changes push to remote(github)
+git push -u origin branch_name
+git push
