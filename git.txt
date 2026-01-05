@@ -1,0 +1,40 @@
+# Git: Verison Control System
+# track the file, folders
+# folder git initialize
+# branch 
+
+
+Commands:
+# git initialize
+git init
+
+# file track
+git add file_name[single file]
+git add . [multiple files and folders]
+
+# git log create
+git commit -m "meaningful messages"
+
+# view previous commits
+git log
+
+# view current state of the folder
+git status
+
+# view all branch
+git branch
+
+# create new branch
+git branch branch_name
+
+# switch between branch
+git checkout branch_name
+
+# merge the changes from all branch to a single single
+git merge branch_name
+
+# change branch name 
+git branch -M new_branch_name
+
+
+# magsir folder git initialize
